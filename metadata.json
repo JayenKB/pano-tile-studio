@@ -1,0 +1,7 @@
+{
+  "name": "PanoTile Studio",
+  "description": "Create seamless panoramic photos from multiple image tiles. Upload, align, preview in 360-view, and export your creations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
